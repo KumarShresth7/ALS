@@ -1,0 +1,5 @@
+venv
+als_detection_model.pkl
+als_detection_scaler.pkl
+processed_results.csv
+VOC-ALS
